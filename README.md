@@ -36,7 +36,7 @@ python VAsimilarity.py
 Apart from the versions to generate the JSON files, there is also a version to view the results using Matplotlib (shape&color)
 ```bash
 python VAshape&color.py
-```bash
+
 python AIshape&color.py
 ``````
 
