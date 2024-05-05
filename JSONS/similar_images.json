@@ -1,0 +1,44 @@
+[
+    {
+        "year": null,
+        "season": null,
+        "product_type": null,
+        "filename": "downloaded_images\\Shoes\\6687330002_3_1_1.jpg",
+        "similarity_score": 0.0
+    },
+    {
+        "year": null,
+        "season": null,
+        "product_type": null,
+        "filename": "downloaded_images\\Shoes\\6687330002_6_1_1.jpg",
+        "similarity_score": 11.905701637268066
+    },
+    {
+        "year": null,
+        "season": null,
+        "product_type": null,
+        "filename": "downloaded_images\\Shoes\\6687330002_6_2_1.jpg",
+        "similarity_score": 16.019760131835938
+    },
+    {
+        "year": null,
+        "season": null,
+        "product_type": null,
+        "filename": "downloaded_images\\Shoes\\2627310107_6_2_1.jpg",
+        "similarity_score": 17.15264892578125
+    },
+    {
+        "year": null,
+        "season": null,
+        "product_type": null,
+        "filename": "downloaded_images\\Otros\\2655220500_3_1_1.jpg",
+        "similarity_score": 17.655916213989258
+    },
+    {
+        "year": null,
+        "season": null,
+        "product_type": null,
+        "filename": "downloaded_images\\Shoes\\2627310107_6_1_1.jpg",
+        "similarity_score": 18.529794692993164
+    }
+]
