@@ -1,0 +1,7 @@
+fastapi~=0.111.0
+opencv-python
+numpy
+pandas
+scikit-image
+matplotlib
+tensorflow
