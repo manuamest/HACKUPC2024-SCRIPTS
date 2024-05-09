@@ -8,11 +8,24 @@ This Python script calculates the similarity between a base image and a dataset 
 - Caches processed images for efficiency.
 - Outputs similarity scores in a JSON file, making it easy to use in further data processing.
 
+## Dependencies
+
+- Python 3.x
+- OpenCV
+- NumPy
+- scikit-image
+- Tensorflow
+
+You can install the required libraries using pip:
+
+```bash
+pip install -r requirements.txt
+```
 ## Setup
 
 1. Clone the Repository:
 ```bash
-git clone https://github.com/AnderVarela/HackUPC.git
+git clone git@github.com:manuamest/HACKUPC2024-SCRIPTS.git
 cd HackUPC/scripts
 ```
 2. Prepare the Dataset:Place your dataset of images in the images directory.
@@ -23,6 +36,7 @@ Modify the script to correctly point to your image directory and the base image:
 
 - `directory`: Path to the directory containing the image dataset.
 - `base_image_path`: Path to the base image against which other images are compared.
+- 
 ## Usage
 Run the script by navigating to the project directory and executing:
 If we want to use the AI model:
