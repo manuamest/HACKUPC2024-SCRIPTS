@@ -1,3 +1,11 @@
+# Execution examples
+
+## VA Script
+![VAEXECUTION](https://github.com/manuamest/HACKUPC2024-SCRIPTS/blob/main/VASIMILARITY.png)
+## IA Script
+![IAEXECUTION](https://github.com/manuamest/HACKUPC2024-SCRIPTS/blob/main/IASIMILARITY.png)
+
+
 # Script Usage
 
 This Python script calculates the similarity between a base image and a dataset of images using structural similarity and color histogram comparison. The results are sorted by similarity and saved to a JSON file.
